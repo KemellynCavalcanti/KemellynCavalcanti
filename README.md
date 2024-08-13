@@ -1,7 +1,7 @@
 <h2 align="left">Oii 👋! Meu nome é Kemellyn, sou estudante de Ciência da Computação e sou do Brasil...</h2>
 
 - 🔭 Atualmente aprimorando meu Front-end
-- 🌱 I’m currently learning JavaScript
+- 🌱 Foco de estudo atual: JavaScript
 - 😄 Pronomes: ela/dela
 
 ###
